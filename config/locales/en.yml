@@ -252,12 +252,13 @@ en:
 
   footer:
     powered_by: Powered by %{href}.
+    company: Cybergate Service PVT LTD
   forgot_password:
     subtitle: Forgot Password
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Cybergate Service PVT LTD.
+  greenlight: Cyber Teach
   header:
     all_recordings: All Recordings
     dropdown:
