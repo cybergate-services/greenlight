@@ -223,6 +223,7 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
+    title: Features
     chat:
         title: CHAT
         description: Send public and private messages
@@ -239,11 +240,11 @@ en:
         title: BREAKOUT ROOMS
         description: Group users into breakout rooms for team collaboration
     screen_sharing:
+        title: SCREEN SHARING
+        description: Share your screen
+    poll: 
         title: POLLING
         description: Poll your users anytime
-    poll:
-        title: SCREEN SHARING
-        description: Share your screen 
     whiteboard:
         title: MULTI-USER WHITEBOARD
         description: Draw together
@@ -256,7 +257,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Cyber Teach
+  greenlight: Cybergate Service PVT LTD.
   header:
     all_recordings: All Recordings
     dropdown:
@@ -281,7 +282,7 @@ en:
       start: Start searching...
   landing:
     about: "%{href} is a web conferencing system design for online learning."
-    welcome: Welcome to Cyber Teach.
+    welcome: Welcome to
     video: Watch our tutorial on using Cyber Teach
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Cyber Teach, but your database isn't compatible.
