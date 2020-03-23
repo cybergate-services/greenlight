@@ -280,7 +280,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your Cyber Teach open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "%{href} is a web conferencing system design for online learning."
     welcome: Welcome to Cyber Teach.
     video: Watch our tutorial on using Cyber Teach
     upgrade: Show me how to upgrade to 2.0!
