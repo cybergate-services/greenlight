@@ -223,11 +223,32 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
-    rooms: Personalized Rooms
-    recordings: Recording Management
-    designs: Custom Designs
-    authentication: User Authentication
+    chat:
+        title: CHAT
+        description: Send public and private messages
+    webcam:
+        title: WEBCAMS
+        description: Hold visual meetings
+    audio:
+        title: AUDIO
+        description: Communicate using high quality audio
+    emoji:
+        title: EMOJIS
+        description: Express yourself
+    breakout_room:
+        title: BREAKOUT ROOMS
+        description: Group users into breakout rooms for team collaboration
+    screen_sharing:
+        title: POLLING
+        description: Poll your users anytime
+    poll:
+        title: SCREEN SHARING
+        description: Share your screen 
+    whiteboard:
+        title: MULTI-USER WHITEBOARD
+        description: Draw together
+  
+
   footer:
     powered_by: Powered by %{href}.
   forgot_password:
